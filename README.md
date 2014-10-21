@@ -19,6 +19,8 @@ Simple to use:
     
   On the roadmap:
   
+  * Add log in via Username & Password
+  * Add pin based authorisation
   * Events to listen to data changes
   * Update Nest settings
   * Windows 8 Phone App with Live tile
